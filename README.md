@@ -1,4 +1,4 @@
-# Simple-Command-Line-Interpreter
+# Simple Command-Line Interpreter
 ## About
 This program implements a simple shell program. A shell is a command-line interpreter: it accepts input from the user under the form of command lines and executes them. Well-known UNIX shells include for example `bash` (default shell on Ubuntu) and `zsh` (default shell on MacOS).
 ## Features
