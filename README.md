@@ -100,7 +100,7 @@ sshell@ucd$ $j $p $l
 + completed '$j $p $l' [0]
 sshell@ucd$
 ```
-## How to use
+## How To Use
 This program requires GCC to be installed into your computer (link: https://gcc.gnu.org/install/). To run the program, enter the `simple-shell` directory in your computer's terminal, then enter `make` onto the command line to compile the files into an executable.
 Example:
 ```
